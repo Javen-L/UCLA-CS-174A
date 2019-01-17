@@ -1,0 +1,54 @@
+#searchBar{
+  top: 0;
+  left: 0;
+  margin: 30px;
+  position: absolute;
+  min-width: 30%;
+  margin-right: 80px;
+  display: none;
+}
+
+#searchInput {
+  font-family: 'Avenir Next', sans-serif;
+  font-size: 1.2rem;
+  /*   border-radius: 20px; */
+  border: none;
+  padding: 5px;
+  /*   padding-left: 10px; */
+  /* background-color:  #333131; */
+  color: #333131;
+  background: none;
+  outline: none;
+  border-bottom: 1px #333131 solid;
+  width: 100%;
+}
+
+#searchInput::placeholder{
+  color: #333131;
+}
+
+#dropdown{
+}
+
+#dropdown a {
+  display: block;
+  padding: 5px;
+  background: rgba(51, 49, 49, .7);
+  color: #f9f9f9;
+  text-decoration: none;
+  font-family: 'Avenir Next', sans-serif;
+}
+
+#dropdown a:hover {
+  background-color: #fcfeff;
+  color:  #333131;
+}
+/*
+canvas{
+  height: 100vh !important;
+  width: 100vw !important;
+}
+
+body{
+  margin: 0;
+}*/

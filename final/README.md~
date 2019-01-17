@@ -1,0 +1,24 @@
+# Record Player - Rotisserie
+
+## Dev Environment
+
+`open host.command`
+
+## Requirements
+
+### Summary:
+ A record player that allows you to switch
+songs. This will incorporate many background elements
+that will react dynamically to different sound and song
+changes. We will incorporate the Spotify API to interact
+with our project.
+
+### Advanced Topics:
+● Shadows of clouds/floating objects in the view
+● Collision of the record needle with the center of
+the record at song end
+● Use morph targets to animate objects in the background
+● Possible post processing effects
+● Bump mapping
+● Moving the arm of the record player to change where you are in the track
+
